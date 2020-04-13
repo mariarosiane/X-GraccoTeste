@@ -5,9 +5,10 @@
 	  $ gem install cucumber
 	  $ gem install rspec
 	  
-######	3 Após instalar os componetes na pasta principal do projeto digitar o comando abaixo
+######	3 Após instalar os componetes na pasta principal do projeto digitar o comando abaixo:
 	  $ bundle install
 	  
 # Executando o projeto 
-######	Na pasta principal do projeto digitar o comando:
-	  $ cucumber
+######	Abrir cmd e na pasta principal do projeto digitar o comando:
+	  $ cucumber --format html --out=reports/relatorio.html
+
