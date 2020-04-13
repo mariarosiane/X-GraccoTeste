@@ -1,0 +1,19 @@
+[0412/212845.458:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.464:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.466:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.466:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.466:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.466:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.466:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.467:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/212845.464:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0412/212845.467:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0412/212845.519:ERROR:exception_snapshot_win.cc(98)] thread ID 26608 not found in process
+[0412/212845.519:ERROR:exception_snapshot_win.cc(98)] thread ID 3852 not found in process
+[0412/235542.200:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0412/235542.224:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0412/235542.211:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0412/235542.251:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0412/235542.266:ERROR:exception_snapshot_win.cc(98)] thread ID 25432 not found in process
+[0412/235542.266:ERROR:exception_snapshot_win.cc(98)] thread ID 30280 not found in process
+[0412/235542.266:ERROR:exception_snapshot_win.cc(98)] thread ID 31500 not found in process
